@@ -23,7 +23,7 @@
             </li>
           <?php else : ?>
             <li class="nav-item">
-              <a class="nav-link" href="<?php echo URLROOT; ?>/users/register">Register</a>
+              <a class="nav-link" href="<?php echo URLROOT;?>/users/register">Register</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="<?php echo URLROOT; ?>/users/login">Login</a>
